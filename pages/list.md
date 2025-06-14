@@ -1,4 +1,5 @@
 # list
 
 #### All Static Pages
-* [clock](https://github.com/noamkessler05/web/blob/main/pages/clocks.md)
+* [night_Clock](https://noamkessler05.github.io/web/pages/clocks/digital/night_Clock/)
+* [clock_in_box](https://noamkessler05.github.io/web/pages/clocks/digital/clock_in_box/)
